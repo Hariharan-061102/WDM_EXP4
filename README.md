@@ -1,5 +1,9 @@
 ### EX4 Implementation of Cluster and Visitor Segmentation for Navigation patterns
-### DATE: 
+### DATE: 10.03.24
+```
+Name: M.Hariharan
+Reg.No:212221230034
+```
 ### AIM: To implement Cluster and Visitor Segmentation for Navigation patterns in Python.
 ### Description:
 <div align= "justify">Cluster visitor segmentation refers to the process of grouping or categorizing visitors to a website, 
@@ -24,6 +28,11 @@
 
 ```
 ### Output:
+![image](https://github.com/Hariharan-061102/WDM_EXP4/assets/93427270/6792d05a-079a-4312-9180-7a55f3d6a9a5)
+![image](https://github.com/Hariharan-061102/WDM_EXP4/assets/93427270/bac58835-8c8b-4a39-a22f-cd40b5160cb4)
+![image](https://github.com/Hariharan-061102/WDM_EXP4/assets/93427270/0d9fae44-5e51-4cf0-a846-95ccaf0f6d93)
+
+
 
 ### Visualization:
 ```python
@@ -44,6 +53,7 @@ plt.title('Visitor Distribution Across Age Groups')
 plt.show()
 ```
 ### Output:
+![image](https://github.com/Hariharan-061102/WDM_EXP4/assets/93427270/cf676403-9300-4b74-9f5c-b4591322905f)
 
 
 ### Result:
